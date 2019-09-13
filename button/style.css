@@ -1,11 +1,78 @@
-
-
-.button {
-width: 20px;
-height:20px;
-border-radius: 20px;
-color: blueviolet ;
-background-color: purple ;
-padding: 140px;
-font-size: 20px;
+* {
+    box-sizing: border-box;
+    float: left;
 }
+
+
+.foodbutton {
+    width: 200px;
+    height: 200px;
+    border-radius: 11px;
+    color: black;
+    background-color: green;
+    padding: 128px;
+    font-size: 45px;
+}
+
+.foodbutton:focus {
+    background-color:yellow;
+}
+
+.foodbutton:hover {
+    background-color:teal;
+}
+
+.foodbutton:active {
+    background-color:tomato;
+}
+
+
+.funbutton {
+    width: 200px;
+    height: 200px;
+    border-radius: 11px;
+    color: black;
+    background-color:green;
+    padding: 128px;
+    font-size: 45px;
+}
+
+.funbutton:focus {
+    background-color: yellow;
+}
+
+.funbutton:hover {
+    background-color: teal;
+}
+
+.funbutton:active {
+    background-color: tomato;
+
+}
+
+.lovebutton {
+    width: 200px;
+    height: 200px;
+    border-radius: 11px;
+    color: black;
+    background-color: green;
+    padding: 128px;
+    font-size: 45px;
+}
+
+.lovebutton:focus {
+    background-color: yellow;
+}
+
+.lovebutton:hover {
+    background-color:teal;
+}
+
+.lovebutton:active {
+    background-color: tomato;
+}
+
+
+
+
+
