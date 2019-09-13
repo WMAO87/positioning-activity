@@ -1,0 +1,42 @@
+body {
+    background-color: lightblue;
+    box-sizing: border-box;
+  }
+header
+{
+    font-size: 1.5em;
+    color: #f00606;
+    font-variant: small-caps;
+    text-transform: none;
+    font-weight: 200;
+    margin-bottom: 0px;
+    Font-family: 'Chilanka', cursive;
+
+}
+.thought1 { 
+    font-family: 'Kalam', cursive;
+    line-height: 21px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: #099e1d;
+
+}
+
+.thought2 { 
+    font-family: 'Roboto', sans-serif;
+    line-height: 21px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: #360441;
+
+
+}
+    .thought3 { 
+        font-family: 'Parisienne', cursive;
+        line-height: 21px;
+        font-size: 13px;
+        letter-spacing: 1px;
+        color: #7e4c13;
+
+}
+    
